@@ -7,7 +7,9 @@
 - Logiciel de modélisation (Looping ou autre)
 
 ## Cloner le dépôt
+```bash
 git clone https://github.com/Roland-Ung/Gestion_Plateforme_Universitaire.git
+```
 
 ## Structure du projet
 ```bash
