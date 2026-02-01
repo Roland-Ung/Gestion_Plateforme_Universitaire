@@ -7,8 +7,8 @@
 - Jeff Bernabeo
 
 ## Objectifs
+- Modéliser et implémenter une base de données
 - Manipuler et gérer des données d'une plateforme universitaire
-- Modéliser et implémenter une base de donnée
 
 ## Prérequis
 - MySQL
