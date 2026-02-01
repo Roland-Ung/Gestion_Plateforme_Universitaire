@@ -2,6 +2,14 @@
 
 ⚠️ Ce projet est pédagogique et ne remplace pas une plateforme universitaire professionnel
 
+## Membres
+- Roland Ung
+- Jeff Bernabeo
+
+## Objectifs
+- Manipuler et gérer des données d'une plateforme universitaire
+- Modéliser et implémenter une base de donnée
+
 ## Prérequis
 - MySQL
 - Logiciel de modélisation (Looping ou autre)
